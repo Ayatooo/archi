@@ -1,0 +1,8 @@
+{
+    "require": {
+        "spatie/laravel-backup": "*"
+    },
+    "require-dev": {
+        "laravel/sail": "^1.36"
+    }
+}
